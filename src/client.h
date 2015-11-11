@@ -19,9 +19,9 @@
  */
 #pragma once
 
-#include "kodi/libXBMC_addon.h"
-#include "kodi/libXBMC_pvr.h"
-#include "kodi/libKODI_guilib.h"
+#include "mrmc/libXBMC_addon.h"
+#include "mrmc/libXBMC_pvr.h"
+#include "mrmc/libKODI_guilib.h"
 #include "platform/util/StdString.h"
 
 #include "clientversion.h"
