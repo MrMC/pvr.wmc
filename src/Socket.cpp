@@ -18,7 +18,7 @@
  *
  */
 
-#include "kodi/libXBMC_addon.h"
+#include "mrmc/libXBMC_addon.h"
 #include <string>
 #include "platform/os.h"
 #include "client.h"

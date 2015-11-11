@@ -18,7 +18,7 @@
  *
  */
 
-#include "kodi/util/XMLUtils.h"
+#include "mrmc/util/XMLUtils.h"
 #include "pvr2wmc.h"
 #include "utilities.h"
 #include "platform/util/timeutils.h"
